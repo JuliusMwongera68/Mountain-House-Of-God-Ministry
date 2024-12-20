@@ -1,0 +1,31 @@
+div.time{
+    float:left;
+    margin: 0;
+    padding: 12px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-shadow: black;
+    
+    background-color:aqua;
+}
+div.programme{
+    ul{
+        float: left;
+        list-style:none;
+        font-family: Arial, Helvetica, sans-serif;
+        text-shadow: black;
+        margin: 0px;
+        padding: 12px;
+        background-color: aqua;
+    }
+}
+div#ok{
+    margin: 0px;
+    padding: 100px;
+    border: double;
+    font-family: Arial, Helvetica, sans-serif;
+    text-shadow: black;
+    background-color: aqua;
+    font-family: Arial, Helvetica, sans-serif;
+    zoom:180%;
+
+}

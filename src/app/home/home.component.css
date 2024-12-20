@@ -1,0 +1,39 @@
+h1{
+    font-family: 'Times New Roman', Times, serif;
+    border: ridge;
+    border-color: aquamarine;
+    padding: 50px ;
+    margin: 0px;
+    text-align: center;
+    background-image:url(/IMG-20241120-WA0067.jpg) ;
+    word-spacing: 20px;
+    text-shadow: 50px;
+    color:brown;
+}
+p{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    border: double;
+    background-color: whitesmoke;
+    text-shadow: black;
+    box-sizing: border-box;
+    color: black;
+    text-size-adjust: 100px;
+    zoom:150%;
+
+
+   
+    word-spacing: 6px;
+
+}
+div#mind {
+  
+    p.ready{
+        background-color: yellowgreen;  
+        font-family: Georgia, 'Times New Roman', Times, serif;
+        font-size: large;
+        align-items: center;
+        text-align: center;
+        zoom:150%;
+        padding: 20px;
+    }
+}

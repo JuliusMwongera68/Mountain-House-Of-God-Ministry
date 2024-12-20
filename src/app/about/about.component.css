@@ -1,0 +1,28 @@
+div{
+    border:solid grey ;
+    box-shadow:0 0 0.7px rgba(0,0,0,0.7) ;
+    background-color: antiquewhite;
+    background-repeat: repeat-y;
+    
+
+}
+p{
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: beige;
+    color: black;
+    word-spacing: 5px;
+}
+h1{
+    color:rgb(55, 57, 51);
+}
+h2{
+    color:rgb(65, 27, 27);
+}
+li{
+    font-family:  Arial, Helvetica, sans-serif;
+    color: black;
+  
+   
+    background-size: cover;
+    background-position:center; 
+}
